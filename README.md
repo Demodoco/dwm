@@ -9,7 +9,8 @@
 - Alt-z: start dmenu, ha la funzione di ricerca e avvio dei programmi installati
   
   (per utilizzarlo andrà installato, nel caso di arch "sudo pacman -S dmenu")
-
+- Alt-Shift-j: ruotare lo stack verso sinistra
+- Alt-Shift-k: ruotare lo stack verso destra
   
 
 ### **Patch**
@@ -17,6 +18,7 @@
 ---
 
 - vanitygaps: gaps tra i bordi delle finestre
+- rotatestack: la possibilità di ruotare lo stack
 
 ### Useful programs
 
